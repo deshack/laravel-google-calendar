@@ -1,5 +1,5 @@
 {
-    "name": "hackeresq/laravel-google-calendar",
+    "name": "deshack/laravel-google-calendar",
     "description": "Laravel wrapper for Google Calendar API that utilizes the Google Client API.",
     "keywords": [
         "google",
