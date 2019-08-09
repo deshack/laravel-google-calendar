@@ -28,5 +28,8 @@
                 "GoogleCalendar": "hackerESQ\\GoogleCalendar\\Facades\\GoogleCalendar"
             }
         }
+    },
+    "replace": {
+        "hackeresq/laravel-google-calendar": "dev-master"
     }
 }
